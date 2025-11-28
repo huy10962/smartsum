@@ -1,0 +1,18 @@
+# Rác của Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Môi trường ảo (nếu có dùng)
+venv/
+env/
+
+# Biến môi trường (chứa mật khẩu - TUYỆT ĐỐI KHÔNG UP LÊN GIT)
+.env
+
+# Thư viện Frontend (sau này sẽ dùng)
+node_modules/
+.next/
+
+# Hệ thống
+.DS_Store
